@@ -45,5 +45,4 @@ You can preview the project layout through [THIS LINK](https://www.figma.com/com
 This project is licensed under the MIT license
 
 ---
-
-Project made with ♥ by Henrique Dias Silva at the Rocketseat event.
+Project made by João Pedro Mello at the Rocketseat event.
